@@ -20,7 +20,7 @@ every home you've evaluated.
 - **State-aware assumptions** — SC's low owner-occupied property tax + coastal
   insurance risk; IL's high (county-dependent) property taxes
 
-## ⚠️ On the "paste a Zillow link" workflow
+## ⚠️ On the Zillow workflow
 
 Zillow actively blocks automated scraping, and browser apps can't fetch
 zillow.com directly (CORS). So this tool uses a **paste-link-plus-key-numbers**
